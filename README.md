@@ -1,4 +1,4 @@
-# raspi-sun-switch
+# Raspi-Sun-Switch
 Python script for Raspberry Pi that uses web Sunrise and Sunset times to turn on/off a relay controlled light or any other GPIO device, making a nifty sun-driven IoT device.
 
 Using this script, you can change the settings on the GPIO pins of a raspberry pi (on or off), based on the times of the sunset or sunrise anywhere in the world.
